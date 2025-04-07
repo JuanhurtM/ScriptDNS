@@ -207,3 +207,6 @@ Las contribuciones son bienvenidas. Si deseas mejorar esta herramienta:
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo LICENSE para más detalles.
+
+**Autor:** Juan Jose Hurtado Mejia  
+**Fecha:** 07 de Abril 2024
